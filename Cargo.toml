@@ -2,6 +2,9 @@
 name = "larp"
 version = "0.0.1"
 authors = ["Idan Loo <im@siwei.lu>"]
+description = "A helper for warp. Provide some macros to make warp easier."
+license = "MIT"
+repository = "https://github.com/IdanLoo/larp"
 
 [dependencies]
 warp = "0.1.9"
