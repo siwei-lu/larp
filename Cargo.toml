@@ -1,0 +1,9 @@
+[package]
+name = "larp"
+version = "0.0.1"
+authors = ["Idan Loo <im@siwei.lu>"]
+
+[dependencies]
+warp = "0.1.9"
+serde = "1.0.80"
+serde_derive = "1.0.80"
